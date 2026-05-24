@@ -1,4 +1,4 @@
-vvariable "region" {
+variable "region" {
   description = "Regiao da AWS"
   default     = "us-east-1"
 }
